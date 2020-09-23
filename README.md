@@ -1,11 +1,11 @@
 # Grocery-Retail-Sales-Analysis
 
-This presentation uses Data Analysis techniques to study data in order to answer such questions. These questions will enable better decision making in the grocery retail.
+This presentation uses Data Analysis techniques to answer such questions that will enable better decision making in the grocery retail.
 This was a prompt in the 3rd UW Datathon organized by Dubstech where my team secured the second place.
 
-What trends do you notice for the store with respect to transactions?
+* What trends do you notice for the store with respect to transactions?
 
-What trends do you notice for the store with respect to time?
+* What trends do you notice for the store with respect to time?
 
 What trends do you notice with respect to the categories & items listed? 
 
